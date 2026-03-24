@@ -62,6 +62,8 @@ Antes da análise, foram realizados ajustes, como:
 
 Um dashboard foi desenvolvido para visualização dos principais indicadores e padrões identificados.
 
+![Dashboard Preview](Ecommerce_analysis_dashboard_print.png)
+
 ---
 
 ## Conclusão
