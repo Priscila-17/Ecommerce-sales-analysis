@@ -92,7 +92,8 @@ Um dashboard foi desenvolvido para visualização dos principais indicadores e p
 
 - **Python (pandas, matplotlib)**  
 - **ETL (Extract, Transform, Load)**   
-- **Power BI**   
+- **Power BI**
+- **DAX (Data Analysis Expressions)**
 - **Análise Exploratória de Dados (EDA)** — identificação de padrões e comportamentos  
 - **Análise de Negócio** — interpretação dos dados com foco em receita, recorrência e concentração  
 - **Storytelling com Dados** — comunicação dos insights e limitações da análise  
