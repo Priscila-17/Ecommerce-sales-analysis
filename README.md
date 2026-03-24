@@ -95,7 +95,8 @@ A dashboard was developed to visualize key metrics and patterns identified in th
 
 - **Python (pandas, matplotlib)**  
 - **ETL (Extract, Transform, Load)**  
-- **Power BI**  
+- **Power BI**
+- **DAX (Data Analysis Expressions)**
 - **Exploratory Data Analysis (EDA)** — pattern and behavior identification  
 - **Business Analysis** — interpretation focused on revenue, recurrence, and concentration  
 - **Data Storytelling** — communication of insights and analysis limitations  
